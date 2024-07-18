@@ -19,9 +19,9 @@
   
   <p>I've discussed three of these models and provided Python code examples for each:</p>
   <ul style="list-style-type: disc; margin-left: 20px;">
-    <li>Flash: <code>[(https://github.com/saimahendra282/Gemini_Ai_All/blob/0d420b781cbdf6993b00c4704508eb46ac30d87b/Gemini_flash.py)]</code></li>
-    <li>Pro: <code>[https://github.com/saimahendra282/Gemini_Ai_All/blob/0d420b781cbdf6993b00c4704508eb46ac30d87b/gemini_pro.py]</code></li>
-    <li>Vision: <code>[https://github.com/saimahendra282/Gemini_Ai_All/blob/0d420b781cbdf6993b00c4704508eb46ac30d87b/Gemini_vision.py]</code></li>
+     <a href ="https://github.com/saimahendra282/Gemini_Ai_All/blob/0d420b781cbdf6993b00c4704508eb46ac30d87b/Gemini_flash.py"><li>Flash: </li></a>
+    <a href= "https://github.com/saimahendra282/Gemini_Ai_All/blob/0d420b781cbdf6993b00c4704508eb46ac30d87b/gemini_pro.py"><li>Pro:</li></a>
+    <a href = "https://github.com/saimahendra282/Gemini_Ai_All/blob/0d420b781cbdf6993b00c4704508eb46ac30d87b/Gemini_vision.py"><li>Vision:</li></a>
   </ul>
   
   <h2 style="color: #333;">Talking about Errors</h2>
